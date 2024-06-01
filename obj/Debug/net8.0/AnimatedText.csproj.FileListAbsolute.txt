@@ -1,0 +1,14 @@
+D:\Programming Projects\AnimatedText\AnimatedText\bin\Debug\net8.0\AnimatedText.exe
+D:\Programming Projects\AnimatedText\AnimatedText\bin\Debug\net8.0\AnimatedText.deps.json
+D:\Programming Projects\AnimatedText\AnimatedText\bin\Debug\net8.0\AnimatedText.runtimeconfig.json
+D:\Programming Projects\AnimatedText\AnimatedText\bin\Debug\net8.0\AnimatedText.dll
+D:\Programming Projects\AnimatedText\AnimatedText\bin\Debug\net8.0\AnimatedText.pdb
+D:\Programming Projects\AnimatedText\AnimatedText\obj\Debug\net8.0\AnimatedText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\AnimatedText\AnimatedText\obj\Debug\net8.0\AnimatedText.AssemblyInfoInputs.cache
+D:\Programming Projects\AnimatedText\AnimatedText\obj\Debug\net8.0\AnimatedText.AssemblyInfo.cs
+D:\Programming Projects\AnimatedText\AnimatedText\obj\Debug\net8.0\AnimatedText.csproj.CoreCompileInputs.cache
+D:\Programming Projects\AnimatedText\AnimatedText\obj\Debug\net8.0\AnimatedText.dll
+D:\Programming Projects\AnimatedText\AnimatedText\obj\Debug\net8.0\refint\AnimatedText.dll
+D:\Programming Projects\AnimatedText\AnimatedText\obj\Debug\net8.0\AnimatedText.pdb
+D:\Programming Projects\AnimatedText\AnimatedText\obj\Debug\net8.0\AnimatedText.genruntimeconfig.cache
+D:\Programming Projects\AnimatedText\AnimatedText\obj\Debug\net8.0\ref\AnimatedText.dll
